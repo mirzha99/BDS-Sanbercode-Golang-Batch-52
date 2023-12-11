@@ -1,0 +1,6 @@
+Data Peserta Bootcamp Digital Skill - Golang Backend Development
+1. Nama                             : Muhammad Mirza 
+2. Email                            : muhammad.mirza3107@gmail.com
+3. Sistem Operasi yang digunakan    : Windows 10
+4. Akun Gitlab/Github               : @muhammad.mirza3107 (Gitlab)
+5. Akun Telegram                    : @dartindonesia
